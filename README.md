@@ -1,0 +1,61 @@
+# SoftUni Programming Basics with Java
+
+Solutions for the SoftUni Programming Basics with Java course: simple calculations, conditional statements, for and
+while loops, nested loops and exam preparation. One class per problem.
+
+## Lectures
+
+| #   | Lecture | Exercises |
+| --- | ------- | --------- |
+| 001 | First Steps in Coding | [Area of Rectangle](001-First-Steps-In-Coding/src/AreaOfRectangle.java) · [Concatenate Text](001-First-Steps-In-Coding/src/ConcatenateText.java) · [Convertor from Inches to Centimeters](001-First-Steps-In-Coding/src/ConvertorFromInchesToCentimeters.java) · [Greeting by Name](001-First-Steps-In-Coding/src/GreetingByName.java) · [Hello Soft Uni](001-First-Steps-In-Coding/src/HelloSoftUni.java) · [Landscaping of Yards](001-First-Steps-In-Coding/src/LandscapingOfYards.java) · [Numbers from One to Ten](001-First-Steps-In-Coding/src/NumbersFromOneToTen.java) · [Pet Shop](001-First-Steps-In-Coding/src/PetShop.java) · [Preparation of Project](001-First-Steps-In-Coding/src/PreparationOfProject.java) |
+| 002 | Exercise: First Steps in Coding | [Aquarium](002-Exercise-First-Steps-In-Coding/src/Aquarium.java) · [Basketball Equipment](002-Exercise-First-Steps-In-Coding/src/BasketballEquipment.java) · [Convertor from Radians to Degrees](002-Exercise-First-Steps-In-Coding/src/ConvertorFromRadiansToDegrees.java) · [Convertor from USD to Bgl](002-Exercise-First-Steps-In-Coding/src/ConvertorFromUsdToBgl.java) · [Deposit Calculator](002-Exercise-First-Steps-In-Coding/src/DepositCalculator.java) · [Food Delivery](002-Exercise-First-Steps-In-Coding/src/FoodDelivery.java) · [Repainting](002-Exercise-First-Steps-In-Coding/src/Repainting.java) · [Study Materials](002-Exercise-First-Steps-In-Coding/src/StudyMaterials.java) · [Vacation Books List](002-Exercise-First-Steps-In-Coding/src/VacationBooksList.java) |
+| 003 | Conditional Statements | [Even or Odd](003-Conditional-Statements/src/EvenOrOdd.java) · [Excellent Grade](003-Conditional-Statements/src/ExcellentGrade.java) · [Greater Number](003-Conditional-Statements/src/GreaterNumber.java) · [Number from One Hundred to Two Hundred](003-Conditional-Statements/src/NumberFromOneHundredToTwoHundred.java) · [Password Guesser](003-Conditional-Statements/src/PasswordGuesser.java) · [Shape Faces](003-Conditional-Statements/src/ShapeFaces.java) · [Speed Information](003-Conditional-Statements/src/SpeedInformation.java) |
+| 004 | Exercise: Conditional Statements | [Bonus Points](004-Exercise-Conditional-Statements/src/BonusPoints.java) · [Godzilla vs Kong](004-Exercise-Conditional-Statements/src/GodzillaVsKong.java) · [Lunch Break](004-Exercise-Conditional-Statements/src/LunchBreak.java) · [Shopping](004-Exercise-Conditional-Statements/src/Shopping.java) · [Sum of Seconds](004-Exercise-Conditional-Statements/src/SumOfSeconds.java) · [Swimming World Record](004-Exercise-Conditional-Statements/src/SwimmingWorldRecord.java) · [Time Plus Fifteen Minutes](004-Exercise-Conditional-Statements/src/TimePlusFifteenMinutes.java) · [Toy Store](004-Exercise-Conditional-Statements/src/ToyStore.java) |
+| 005 | Conditional Statements Advanced | [Address by Age and Gender](005-Conditional-Statements-Advanced/src/AddressByAgeAndGender.java) · [Animal Class](005-Conditional-Statements-Advanced/src/AnimalClass.java) · [Cinema Ticket](005-Conditional-Statements-Advanced/src/CinemaTicket.java) · [Day Off or Working Day](005-Conditional-Statements-Advanced/src/DayOffOrWorkingDay.java) · [Fruit or Vegetable](005-Conditional-Statements-Advanced/src/FruitOrVegetable.java) · [Fruit Shop](005-Conditional-Statements-Advanced/src/FruitShop.java) · [Invalid Number](005-Conditional-Statements-Advanced/src/InvalidNumber.java) · [Neighborhood Shop](005-Conditional-Statements-Advanced/src/NeighborhoodShop.java) · [Number in Interval](005-Conditional-Statements-Advanced/src/NumberInInterval.java) · [Ski Trip](005-Conditional-Statements-Advanced/src/SkiTrip.java) · [Trade Commissions](005-Conditional-Statements-Advanced/src/TradeCommissions.java) · [Week Day](005-Conditional-Statements-Advanced/src/WeekDay.java) · [Work Day](005-Conditional-Statements-Advanced/src/WorkDay.java) |
+| 006 | Exercise: Conditional Statements Advanced | [Cinema](006-Exercise-Conditional-Statements-Advanced/src/Cinema.java) · [Fishing Boat](006-Exercise-Conditional-Statements-Advanced/src/FishingBoat.java) · [Hotel Room](006-Exercise-Conditional-Statements-Advanced/src/HotelRoom.java) · [Journey](006-Exercise-Conditional-Statements-Advanced/src/Journey.java) · [Just in Time for an Exam](006-Exercise-Conditional-Statements-Advanced/src/JustInTimeForAnExam.java) · [New Home](006-Exercise-Conditional-Statements-Advanced/src/NewHome.java) · [Number Operations](006-Exercise-Conditional-Statements-Advanced/src/NumberOperations.java) · [Summer Clothing](006-Exercise-Conditional-Statements-Advanced/src/SummerClothing.java) |
+| 007 | For Loops | [Array of Whole Numbers](007-For-Loops/src/ArrayOfWholeNumbers.java) · [Even Odd Sum](007-For-Loops/src/EvenOddSum.java) · [Even Powers of Two](007-For-Loops/src/EvenPowersOfTwo.java) · [Left Right Sum](007-For-Loops/src/LeftRightSum.java) · [Number Through Three](007-For-Loops/src/NumberThroughThree.java) · [Numbers from One to One Hundred](007-For-Loops/src/NumbersFromOneToOneHundred.java) · [Numbers in Reverse Order](007-For-Loops/src/NumbersInReverseOrder.java) · [Stream of Characters](007-For-Loops/src/StreamOfCharacters.java) · [Sum of Numbers](007-For-Loops/src/SumOfNumbers.java) · [Vowel Sum](007-For-Loops/src/VowelSum.java) |
+| 008 | Exercise: for Loops | [Element Equal to the Sum of Others](008-Exercise-For-Loops/src/ElementEqualToTheSumOfOthers.java) · [Histogram](008-Exercise-For-Loops/src/Histogram.java) · [Numbers Up to One Thousand Ending in Seven](008-Exercise-For-Loops/src/NumbersUpToOneThousandEndingInSeven.java) · [Oscars](008-Exercise-For-Loops/src/Oscars.java) · [Salary](008-Exercise-For-Loops/src/Salary.java) · [Smart Lily](008-Exercise-For-Loops/src/SmartLily.java) · [Tracking Mania](008-Exercise-For-Loops/src/TrackingMania.java) · [World Tennis Rankings](008-Exercise-For-Loops/src/WorldTennisRankings.java) |
+| 009 | While Loops | [Array of Numbers](009-While-Loops/src/ArrayOfNumbers.java) · [Balance](009-While-Loops/src/Balance.java) · [Biggest Number](009-While-Loops/src/BiggestNumber.java) · [Graduation](009-While-Loops/src/Graduation.java) · [Password](009-While-Loops/src/Password.java) · [Read Words](009-While-Loops/src/ReadWords.java) · [Smallest Number](009-While-Loops/src/SmallestNumber.java) · [Sum of Numbers](009-While-Loops/src/SumOfNumbers.java) |
+| 010 | Exercise: While Loops | [Cake](010-Exercise-While-Loops/src/Cake.java) · [Coins](010-Exercise-While-Loops/src/Coins.java) · [Exam Preparation](010-Exercise-While-Loops/src/ExamPreparation.java) · [Moving](010-Exercise-While-Loops/src/Moving.java) · [Old Library](010-Exercise-While-Loops/src/OldLibrary.java) · [REST](010-Exercise-While-Loops/src/Rest.java) · [Steps](010-Exercise-While-Loops/src/Steps.java) |
+| 011 | Nested Loops | [Building](011-Nested-Loops/src/Building.java) · [Clock](011-Nested-Loops/src/Clock.java) · [Combinations](011-Nested-Loops/src/Combinations.java) · [Journey](011-Nested-Loops/src/Journey.java) · [Multiplication Table](011-Nested-Loops/src/MultiplicationTable.java) · [Sum of Two Numbers](011-Nested-Loops/src/SumOfTwoNumbers.java) |
+| 012 | Exercise: Nested Loops | [Cinema Ticket](012-Exercise-Nested-Loops/src/CinemaTicket.java) · [Equal Sums of Even and Odd Positions](012-Exercise-Nested-Loops/src/EqualSumsOfEvenAndOddPositions.java) · [Pyramid of Numbers](012-Exercise-Nested-Loops/src/PyramidOfNumbers.java) · [Special Numbers](012-Exercise-Nested-Loops/src/SpecialNumbers.java) · [Sum of Prime and None Prime Numbers](012-Exercise-Nested-Loops/src/SumOfPrimeAndNonePrimeNumbers.java) · [Train the Trainers](012-Exercise-Nested-Loops/src/TrainTheTrainers.java) |
+| 013 | Exam Preparation | [Family Trip](013-Exam-Preparation/src/FamilyTrip.java) · [Movie Profit](013-Exam-Preparation/src/MovieProfit.java) · [Movie Ratings](013-Exam-Preparation/src/MovieRatings.java) · [Rhythmic Gymnastics](013-Exam-Preparation/src/RhythmicGymnastics.java) · [Tourist Shop](013-Exam-Preparation/src/TouristShop.java) · [Vet Parking](013-Exam-Preparation/src/VetParking.java) |
+
+## Run
+
+Needs JDK 25. Every lecture is its own Gradle project with a wrapper and JUnit tests.
+
+```bash
+cd 005-Conditional-Statements-Advanced
+./gradlew build      # compiles and runs the tests
+```
+
+Or open the lecture folder in IntelliJ IDEA and run a class's `main`.
+
+## Certificate
+
+[SoftUni · Programming Basics, June 2020 — honorable mention, 6.00 / 6.00](Resources/Certificate.pdf)
+
+## License
+
+[MIT](LICENSE)
+
+## Course materials
+
+Slides, task sheets and lecture videos for each lesson.
+
+| Lesson | Materials | Video |
+| ------ | --------- | ----- |
+| [001-First-Steps-In-Coding](001-First-Steps-In-Coding) | [Pb-Java-First-Steps-In-Coding-Lab.pdf](001-First-Steps-In-Coding/Resources/Pb-Java-First-Steps-In-Coding-Lab.pdf) · [Pb-Java-First-Steps-In-Coding.pdf](001-First-Steps-In-Coding/Resources/Pb-Java-First-Steps-In-Coding.pdf) | [Video](https://youtu.be/7ljEC4a2mn0) |
+| [002-Exercise-First-Steps-In-Coding](002-Exercise-First-Steps-In-Coding) | [Pb-Java-First-Steps-In-Coding-Exercise.pdf](002-Exercise-First-Steps-In-Coding/Resources/Pb-Java-First-Steps-In-Coding-Exercise.pdf) | [Video](https://youtu.be/EvEB-_HM6TE) |
+| [003-Conditional-Statements](003-Conditional-Statements) | [Pb-Java-Conditional-Statements-Lab.pdf](003-Conditional-Statements/Resources/Pb-Java-Conditional-Statements-Lab.pdf) · [Pb-Java-Conditional-Statements.pdf](003-Conditional-Statements/Resources/Pb-Java-Conditional-Statements.pdf) | [Video](https://youtu.be/DJ7KvzDCTdo) |
+| [004-Exercise-Conditional-Statements](004-Exercise-Conditional-Statements) | [Pb-Java-Conditional-Statements-Exercise.pdf](004-Exercise-Conditional-Statements/Resources/Pb-Java-Conditional-Statements-Exercise.pdf) | [Video](https://youtu.be/WAK2hygyvvY) |
+| [005-Conditional-Statements-Advanced](005-Conditional-Statements-Advanced) | [Pb-Java-Conditional-Statements-Advanced-Lab.pdf](005-Conditional-Statements-Advanced/Resources/Pb-Java-Conditional-Statements-Advanced-Lab.pdf) · [Pb-Java-Conditional-Statements-Advanced.pdf](005-Conditional-Statements-Advanced/Resources/Pb-Java-Conditional-Statements-Advanced.pdf) | [Video](https://youtu.be/1zKuAWHLgn8) |
+| [006-Exercise-Conditional-Statements-Advanced](006-Exercise-Conditional-Statements-Advanced) | [Pb-Java-Conditional-Statements-Advanced-Exercise.pdf](006-Exercise-Conditional-Statements-Advanced/Resources/Pb-Java-Conditional-Statements-Advanced-Exercise.pdf) | [Video](https://youtu.be/e6_KjgDldRM) |
+| [007-For-Loops](007-For-Loops) | [Pb-Java-For-Loop-Lab.pdf](007-For-Loops/Resources/Pb-Java-For-Loop-Lab.pdf) · [Pb-Java-For-Loop.pdf](007-For-Loops/Resources/Pb-Java-For-Loop.pdf) | [Video](https://youtu.be/aLBKpMtEviE) |
+| [008-Exercise-For-Loops](008-Exercise-For-Loops) | [Pb-Java-For-Loop-Exercise.pdf](008-Exercise-For-Loops/Resources/Pb-Java-For-Loop-Exercise.pdf) | [Video](https://youtu.be/ojgw3ote4QI) |
+| [009-While-Loops](009-While-Loops) | [Pb-Java-While-Loop-Lab.pdf](009-While-Loops/Resources/Pb-Java-While-Loop-Lab.pdf) · [Pb-Java-While-Loop.pdf](009-While-Loops/Resources/Pb-Java-While-Loop.pdf) | [Video](https://youtu.be/e2gmFyQRhII) |
+| [010-Exercise-While-Loops](010-Exercise-While-Loops) | [Pb-Java-While-Loop-Exercise.pdf](010-Exercise-While-Loops/Resources/Pb-Java-While-Loop-Exercise.pdf) | [Video](https://youtu.be/o-ph7xDLAuo) |
+| [011-Nested-Loops](011-Nested-Loops) | [Pb-Java-Nested-Loops-.pdf](011-Nested-Loops/Resources/Pb-Java-Nested-Loops-.pdf) · [Pb-Java-Nested-Loops-Lab.pdf](011-Nested-Loops/Resources/Pb-Java-Nested-Loops-Lab.pdf) | [Video](https://youtu.be/LH5i_RijCSQ) |
+| [012-Exercise-Nested-Loops](012-Exercise-Nested-Loops) | [Pb-Java-Nested-Loops-Exercise.pdf](012-Exercise-Nested-Loops/Resources/Pb-Java-Nested-Loops-Exercise.pdf) | [Video](https://youtu.be/hW9Vq-Ug-BA) |
+| [013-Exam-Preparation](013-Exam-Preparation) | [Exam-Preparation-Sept-.pdf](013-Exam-Preparation/Resources/Exam-Preparation-Sept-.pdf) | [Video](https://youtu.be/CVYuqDfFn1k) |
